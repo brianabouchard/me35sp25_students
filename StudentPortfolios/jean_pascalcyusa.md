@@ -1,1 +1,1 @@
-https://cyusaportfolio.netlify.app/
+https://pascalcyusa.netlify.app/projects
